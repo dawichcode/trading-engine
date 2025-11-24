@@ -1,5 +1,5 @@
-# Dingir Exchange
-Dingir Exchange is a high performance exchange trading server.   
+# Trading Exchange
+Trading Exchange is a high performance exchange trading server.   
 The core matching engine is a fully async, single threaded, memory based matching engine with thousands of TPS. 
 
 * Features: order matching, order state change notification, user balance management, market data...   
